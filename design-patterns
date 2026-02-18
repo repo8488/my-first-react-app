@@ -1,3 +1,6 @@
 Design Pattern
 
 https://leapcell.io/blog/best-practices-design-patterns-go
+
+Factory Pattern
+Cloud Storage Client (S3/GCS/Azure Blob): Create corresponding API clients according to the storage service.
